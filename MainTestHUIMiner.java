@@ -18,7 +18,7 @@ public class MainTestHUIMiner {
 		String input = fileToPath("DB_Utility.txt");
 		String output = ".//output.txt";
 
-		int min_utility = 30;  // 
+		int min_utility = 1045203;  // 
 		
 		// Applying the HUIMiner algorithm
 		AlgoHUIMiner huiminer = new AlgoHUIMiner();
